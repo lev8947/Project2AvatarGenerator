@@ -1,2 +1,3 @@
-# Project2AvatarGenerator
-Random avatar generator made with multiavatar API
+# Run using NPM
+
+npm i @multiavatar/multiavatar
